@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+workdir/
+assets/
+*.pdf
+*.pptx
+*.log
+.DS_Store
